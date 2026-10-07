@@ -1,0 +1,15 @@
+{
+  "guid": "8f3c2a71-5b4e-4d1a-9c6e-2f7b1a9d4e10",
+  "name": "DiscordPresence",
+  "displayName": "Discord Rich Presence",
+  "skipSafetyChecks": false,
+  "disableScripts": false,
+  "accessesExtraAssemblies": true,
+  "disableHarmonyPatching": false,
+  "requiredOn": 0,
+  "files": [
+    { "path": "Scripts/DiscordPresenceMod.cs", "guid": "3a9e6c55-1d2f-4b8a-8e71-0c4d9f2b6a31" },
+    { "path": "Scripts/DisableBuiltInPresence.cs", "guid": "b6d0f2c4-7a1e-4c9b-9f35-58e2d1a7c3f0" }
+  ],
+  "dependencies": []
+}

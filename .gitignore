@@ -1,0 +1,17 @@
+# build output
+app/build/bin/
+app/frontend/dist/
+app/frontend/node_modules/
+app/*.exe
+mod-check/bin/
+mod-check/obj/
+# old Rust prototype, replaced by app/
+companion/
+# local notes about this PC
+LOCAL-NOTES.md
+# prompts for other AI tools
+PROMPT_*.txt
+# installer temp files
+app/build/windows/installer/tmp/
+# wails build cache
+app/frontend/package.json.md5
