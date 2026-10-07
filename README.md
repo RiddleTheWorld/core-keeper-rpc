@@ -10,6 +10,8 @@ Fighting Malugaz the Corrupted
 
 It has two parts: a **mod** that reads the game, and an **app** that sends it to Discord.
 
+![The app: pick a situation, write your wording, and see what friends will see](docs/screenshot.png)
+
 ## Install
 
 Download the files from the [latest release](../../releases/latest).

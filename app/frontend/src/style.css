@@ -14,6 +14,8 @@
   --amber-dim: #f2aa3c26;
   --ok: #7fcf73;
   --focus: #ffd28a;
+  color-scheme: dark; /* dark scrollbars */
+  scrollbar-color: var(--rule) transparent;
   font-family: "Segoe UI", sans-serif;
   font-size: 14px;
   color: var(--text);
